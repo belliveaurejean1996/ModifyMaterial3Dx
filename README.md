@@ -1,2 +1,2 @@
 # Modify Material 3Dx
-This project that allows user of 3D experience to change the material type of a groupe of parts that have all the same material to a new material definition. 
+This project allows users of 3D experience to change the material type to a new material definition. Using large assemblies in catia in order to change the material type of a groupe of parts is very long and requires the user to do it manually if the old material canot be modified. Note that if the old material can be change this would not be the best obtion for your situation. Cahnging the material definition is alot quicker. 
